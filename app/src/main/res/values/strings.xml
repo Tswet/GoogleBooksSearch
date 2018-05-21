@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google Books Search</string>
+    <string name="search_text">Введите название или автора кники, которую вы ищете.</string>
+    <string name="search_hint">Введите название или автора</string>
+    <string name="search_button">SEARCH IT!!!</string>
+    <string name="no_item_found">No item found</string>
+</resources>
